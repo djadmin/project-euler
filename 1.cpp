@@ -1,3 +1,6 @@
+//To find sum of multiples of 3 or 5 less than 1000
+//Complexity: O(1)
+
 #include<iostream>
 #include<cmath>
 using namespace std;
