@@ -1,3 +1,5 @@
+//Problem 3: To find the greatest prime factor of a number
+
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -6,8 +8,7 @@ typedef long long ll;
 int main(){
 	
 	bool flag=false;
-	ll num=600851475143,fact=2;
-	ll max=2;
+	ll num=600851475143,fact=2,max=2;
 	
 	while(num>1 && num%fact==0)
 			num/=fact;
@@ -17,8 +18,8 @@ int main(){
 			flag=true;
 			num/=fact;
 		
-		if(flag==true && max<fact)
-				max=fact;
+			if(flag==true && max<fact)
+					max=fact;
 		}
 		flag=false;
 		fact+=2;
