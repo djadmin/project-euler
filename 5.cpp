@@ -8,8 +8,7 @@ using namespace std;
 typedef long long LL;
 
 LL gcd(LL a,LL b){
-	if(b==0)
-		return a;
+	if(b==0) return a;
 	if(a<b){
 		a=a+b;
 		b=a-b;
