@@ -1,3 +1,6 @@
+//Problem 8:
+// To fiind the greatest product of five consecutive digits in the given 1000-digit number.
+
 #include<iostream>
 #include<string>
 using namespace std;
