@@ -1,3 +1,6 @@
+//Problem 7
+//To find the 10001st prime number starting from 2.
+
 #include<iostream>
 using namespace std;
 
