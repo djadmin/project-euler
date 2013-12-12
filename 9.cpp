@@ -1,3 +1,8 @@
+//Problem 9 :
+//To find the product of pythagorean triplet whose sum is 1000
+
+
+//By solving a2 + b2 = c2 & a+b+c=1000
 #include<iostream>
 using namespace std;
 #define N 500
@@ -18,7 +23,6 @@ int main(){
 	int res;
 	res=calc();
 	cout<<res;
-
 	return 0;
 }
 
