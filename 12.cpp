@@ -1,3 +1,6 @@
+//Problem 12:
+//To find the value of the first triangle number to have over five hundred divisors.
+
 #include<iostream>
 using namespace std;
 
