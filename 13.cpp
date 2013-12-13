@@ -1,6 +1,7 @@
+//Problem 13:
+//To Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
 #include<iostream>
 #include<string>
-#include<vector>
 using namespace std;
 
 const int LEN=50;
