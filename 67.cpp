@@ -1,3 +1,7 @@
+//Problem 67: Maximum path sum II
+/*By starting at the top of the triangle below and moving to adjacent numbers on the row below, 
+find the maximum total from top to bottom */
+
 #include<iostream>
 using namespace std;
 
