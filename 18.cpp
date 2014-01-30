@@ -1,4 +1,4 @@
-//Problem 18: Maximum path sum 
+//Problem 18: Maximum path sum Problem 
 /*By starting at the top of the triangle below and moving to adjacent numbers on the row below, 
 find the maximum total from top to bottom 
 */
